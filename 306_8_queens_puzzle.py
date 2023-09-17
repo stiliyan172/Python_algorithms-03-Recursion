@@ -48,3 +48,5 @@ board = []
 [board.append(["-"] * 8) for _ in range(8)]
 
 put_queens(0, board, set(), set(), set(), set())
+
+
