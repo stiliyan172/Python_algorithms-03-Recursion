@@ -43,3 +43,5 @@ board = np.zeros((8, 8))
 
 if solve(board, 0, 8):
     print(board)
+
+
