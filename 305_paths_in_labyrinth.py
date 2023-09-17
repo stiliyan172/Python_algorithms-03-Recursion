@@ -34,3 +34,6 @@ for _ in range(rows):
     lab.append(list(input()))
 
 find_all_paths(0, 0, lab, "", [])
+
+
+
