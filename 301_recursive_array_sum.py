@@ -7,5 +7,3 @@ def array_sum(nums, idx):
 nums = [int(x) for x in input().split()]
 
 print(array_sum(nums, 0))
-
-
