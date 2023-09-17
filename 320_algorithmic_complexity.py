@@ -7,3 +7,5 @@ def get_operations_count(n):
 
 
 print(get_operations_count(8))
+
+
