@@ -23,3 +23,5 @@ draw_figure(n)
 # while not temp_num > temp_increase:
 #     print(temp_num * "#")
 #     temp_num += 1
+
+
