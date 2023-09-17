@@ -6,3 +6,5 @@ def calc_fact(num):
 
 number = int(input())
 print(calc_fact(number))
+
+
